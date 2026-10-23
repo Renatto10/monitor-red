@@ -1,0 +1,7 @@
+[
+    {"nombre": "Router", "ip": "192.168.18.1", "puertos": [80]},
+    {"nombre": "DNS de Google", "ip": "8.8.8.8", "puertos": [53]},
+    {"nombre": "Google", "ip": "google.com", "puertos": [80, 443]},
+    {"nombre": "Equipo inexistente", "ip": "192.168.18.250", "puertos": [80]},
+    {"nombre": "Cloudflare DNS", "ip": "1.1.1.1"}
+]
